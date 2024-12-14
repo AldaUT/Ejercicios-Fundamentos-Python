@@ -10,5 +10,9 @@ while guess_count < guess_limit:
     if guess == correct_guess: #si se adivina en cada intento 1>3
         print("¡Felicidades, adivinaste la fruta!")
         break
-    else: #si se acaba los intentos sin adivinar
+    else: #por cada intento sin adivinar
         print("Ni modo, no adivinaste.") 
+
+if guess != correct_guess: #si se acaba los intentos sin adivinar
+    print("¡Se acabaron los intentos! La respuesta correcta era:", correct_guess)
+    
