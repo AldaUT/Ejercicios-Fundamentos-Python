@@ -113,5 +113,5 @@ elif IMC >= 30.00 and IMC <= 34.99:
 elif IMC >= 35.00 and IMC <= 39.00:
         print (f"Tu IMC es {IMC} = a: Obesidad media")
 elif IMC >= 40.00:
-    print (f"Tu IMC es {IMC} = a: Obesidad morbida")
+    print (f"Tu IMC es {IMC} = a: Obesidad morbida")#
 

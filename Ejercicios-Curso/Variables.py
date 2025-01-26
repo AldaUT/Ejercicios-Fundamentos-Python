@@ -23,3 +23,4 @@ print(type(flag))
 vacio = None
 print(vacio)
 print(type(vacio))
+#

@@ -26,4 +26,4 @@ def calcular_diferencia_años():
             print(f"Faltan {diferencia} años para llegar al año que has introducido.")
 
 # Ejecutar el programa
-calcular_diferencia_años()
+calcular_diferencia_años() #

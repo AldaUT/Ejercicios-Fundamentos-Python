@@ -29,4 +29,4 @@ else:
     calidad_tarea = "Desconocida"
 
 # Resultado
-print(f"Hoy es {Día}. Nivel de estrés: {nivel_estres}. La tarea está: {calidad_tarea}.")
+print(f"Hoy es {Día}. Nivel de estrés: {nivel_estres}. La tarea está: {calidad_tarea}.") #

@@ -20,4 +20,4 @@
 # print (11 <= 10 ) #meno o igual que
 
 print ('ola' in 'hola')
-print ('ola' not in 'hola')
+print ('ola' not in 'hola') #

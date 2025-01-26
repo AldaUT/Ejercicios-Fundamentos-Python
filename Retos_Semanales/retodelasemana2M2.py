@@ -28,4 +28,4 @@ for _ in range(cantidad):
 print("\nAquí está la lista de alumnos con sus promedios:")
 for alumno in lista:
     nombre, calificaciones, promedio = alumno
-    print(f"{nombre}: Calificaciones: {calificaciones}, Promedio: {promedio:.2f}")
+    print(f"{nombre}: Calificaciones: {calificaciones}, Promedio: {promedio:.2f}") #
